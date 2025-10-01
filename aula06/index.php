@@ -32,11 +32,11 @@
         echo"Agora Dividindo o valor de B por 10 e igual a $b.";
         echo"<br></br>";
 
-        $b%=3
+        $b%=3;
         echo"O resto da divisão do valor de B dividido por 3 e igual a $b.";
         echo"<br></br>";
 
-        $b.=10
+        $b.=10;
         echo"Concatenando o valor de B com o numero 10 fica igual a $b.";
         echo"<br></br>";
         ?>
