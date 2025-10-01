@@ -40,5 +40,5 @@
         echo"Concatenando o valor de B com o numero 10 fica igual a $b.";
         echo"<br></br>";
         ?>
-    </body>
+    </body>   
 </html>
