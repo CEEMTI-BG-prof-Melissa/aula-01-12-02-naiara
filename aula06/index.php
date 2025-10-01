@@ -12,6 +12,10 @@
         Echo "A e igual a $a e B e igual a $b.";
         echo "<br></br>";
 
+        $a=$a+3;
+        echo"Agora A é igual a $a.";
+        echo"<br><br>";
+
         $a=$a+8;
         echo "Agora A e igual $a";
         echo "<br></br>";
